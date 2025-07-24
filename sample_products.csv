@@ -1,0 +1,7 @@
+Name,Gender,Age,Unit,Price,Quantity,TotalAmount
+Sara,Female,22.0,Box,100.5,2.0,201.0
+Ali,Male,,Piece,50.0,3.0,
+Ayesha,,24.0,Box,,1.0,
+Bilal,Male,28.0,Piece,80.0,4.0,320.0
+Zara,Female,,Box,110.0,2.0,
+Ahmed,Male,30.0,,95.0,,380.0
