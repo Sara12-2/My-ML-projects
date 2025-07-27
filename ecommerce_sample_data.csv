@@ -1,0 +1,551 @@
+user_age,user_location,product_price,time_on_site,pages_viewed,previous_purchases,product_category,device_type,clicked_ad,purchased
+33,Texas,51.01,29.71,3,1,Books,Desktop,1,1
+41,Illinois,29.28,2.96,15,5,Electronics,Mobile,1,0
+59,California,290.17,5.92,9,3,Electronics,Mobile,1,1
+35,New York,44.78,29.46,3,4,Toys,Desktop,1,1
+55,Texas,236.31,13.26,8,3,Electronics,Desktop,1,1
+38,Texas,70.23,29.56,1,9,Books,Mobile,0,0
+31,Florida,124.15,3.35,6,8,Toys,Desktop,0,0
+19,New York,22.3,11.34,1,3,Books,Desktop,0,0
+18,Illinois,116.98,28.59,3,3,Toys,Mobile,0,0
+25,California,59.68,6.01,10,2,Books,Desktop,0,0
+57,Florida,59.43,29.14,3,0,Toys,Mobile,0,0
+30,California,186.19,18.55,6,0,Electronics,Desktop,0,0
+63,California,147.99,9.13,6,1,Toys,Mobile,1,1
+27,New York,201.01,17.1,19,7,Toys,Mobile,0,0
+63,California,195.35,13.54,15,9,Electronics,Desktop,1,1
+61,Florida,137.28,16.24,17,4,Fashion,Mobile,1,1
+30,California,44.95,2.53,7,5,Toys,Desktop,0,0
+52,Illinois,238.36,23.46,19,2,Home,Mobile,1,0
+27,California,247.29,16.78,5,0,Electronics,Mobile,1,0
+28,Texas,47.1,9.73,15,9,Books,Mobile,0,0
+39,New York,39.53,4.06,15,1,Fashion,Mobile,1,0
+55,Texas,110.91,20.96,10,8,Books,Desktop,0,0
+30,Florida,16.12,12.63,11,7,Books,Mobile,1,1
+31,Illinois,188.12,1.54,14,9,Toys,Desktop,0,0
+40,Illinois,228.98,1.15,9,0,Electronics,Mobile,0,0
+23,Illinois,55.46,17.11,1,4,Books,Desktop,1,1
+58,Florida,239.47,27.23,5,9,Home,Desktop,0,0
+42,California,102.04,22.16,20,2,Electronics,Desktop,1,1
+31,Illinois,70.73,4.65,8,8,Toys,Mobile,1,0
+61,California,20.94,18.07,9,6,Home,Mobile,0,0
+19,California,274.13,21.84,14,5,Electronics,Mobile,0,0
+52,New York,222.32,12.95,5,0,Electronics,Desktop,0,0
+52,California,119.45,8.22,14,6,Home,Mobile,1,1
+37,Florida,63.25,14.18,13,5,Electronics,Mobile,1,1
+34,Illinois,189.86,18.88,20,4,Home,Mobile,0,0
+60,Florida,174.67,8.22,19,10,Fashion,Desktop,0,0
+48,Florida,21.71,14.82,17,8,Fashion,Mobile,1,0
+18,Florida,239.7,11.38,3,5,Toys,Desktop,1,1
+23,Texas,41.3,27.06,9,7,Home,Mobile,1,1
+57,Texas,85.01,20.51,3,0,Home,Desktop,0,0
+35,Florida,242.62,10.83,19,0,Books,Desktop,1,1
+51,New York,263.4,17.07,4,8,Electronics,Mobile,1,0
+59,New York,36.57,7.19,9,6,Books,Desktop,0,0
+22,New York,212.19,5.2,11,6,Books,Mobile,1,1
+42,California,49.69,25.95,11,10,Books,Desktop,0,0
+49,New York,234.44,22.7,9,9,Home,Mobile,0,0
+62,Texas,116.53,15.19,14,2,Home,Desktop,0,0
+59,New York,193.41,2.54,6,6,Books,Desktop,1,0
+30,Illinois,253.07,23.56,18,2,Books,Desktop,0,0
+23,Illinois,99.85,6.27,13,1,Fashion,Desktop,0,0
+27,Texas,206.51,5.4,6,3,Books,Mobile,1,1
+57,Florida,49.53,15.61,16,5,Home,Mobile,1,0
+30,New York,32.8,15.66,18,1,Fashion,Mobile,1,1
+48,Florida,151.28,20.2,10,7,Books,Mobile,1,1
+61,New York,94.35,13.59,11,8,Home,Mobile,1,1
+51,California,215.56,18.27,14,2,Books,Desktop,1,1
+50,California,265.17,18.63,5,2,Books,Mobile,0,0
+61,Texas,278.85,18.28,7,9,Home,Mobile,1,1
+64,New York,40.42,8.44,9,4,Home,Mobile,0,0
+19,Florida,134.32,27.49,10,2,Electronics,Mobile,0,0
+36,California,58.04,16.0,2,8,Home,Mobile,0,0
+36,California,287.6,2.44,8,9,Home,Mobile,1,0
+55,California,30.58,27.78,18,7,Home,Desktop,1,1
+28,Florida,62.92,29.66,3,9,Electronics,Mobile,1,1
+60,Florida,77.4,15.22,9,3,Electronics,Mobile,1,0
+43,New York,91.26,17.15,15,8,Home,Mobile,0,0
+54,New York,70.04,4.25,17,8,Books,Desktop,1,0
+47,California,75.84,13.59,13,9,Electronics,Desktop,1,1
+45,Florida,91.55,8.0,9,2,Toys,Desktop,0,0
+36,Illinois,26.29,29.53,1,10,Toys,Mobile,0,0
+39,Florida,185.36,10.54,19,4,Electronics,Mobile,0,0
+41,Illinois,199.91,20.49,14,1,Toys,Desktop,1,1
+49,Texas,149.01,5.55,3,9,Home,Mobile,0,0
+64,Texas,167.68,8.06,12,8,Electronics,Mobile,0,0
+46,Texas,195.28,27.72,17,3,Electronics,Desktop,0,0
+39,Texas,143.24,19.15,19,6,Toys,Desktop,1,1
+26,Illinois,185.75,27.58,13,0,Books,Mobile,1,1
+56,New York,217.01,11.31,15,4,Home,Mobile,0,0
+36,California,154.71,26.67,14,8,Toys,Desktop,0,0
+44,Illinois,284.33,7.97,13,5,Toys,Desktop,0,0
+32,Illinois,104.14,25.22,20,7,Home,Mobile,1,0
+27,Florida,130.77,7.5,20,10,Fashion,Desktop,1,1
+35,Florida,233.89,29.63,8,6,Toys,Mobile,1,0
+22,New York,273.62,11.39,14,3,Electronics,Desktop,1,1
+22,Texas,245.68,23.39,10,8,Toys,Desktop,0,0
+30,California,121.3,8.61,20,1,Toys,Mobile,1,1
+21,Florida,56.58,21.82,4,6,Fashion,Desktop,1,1
+60,New York,252.38,15.67,2,2,Books,Desktop,1,1
+47,California,17.15,3.04,8,0,Toys,Mobile,0,0
+52,California,233.08,4.28,1,10,Toys,Desktop,1,0
+28,Florida,191.0,25.42,18,1,Electronics,Desktop,0,0
+55,Florida,106.98,14.41,17,8,Books,Desktop,1,0
+39,New York,55.76,2.95,19,3,Electronics,Desktop,1,0
+35,California,235.73,23.01,18,8,Electronics,Desktop,0,0
+50,California,62.84,13.9,16,9,Toys,Desktop,1,0
+44,New York,252.57,12.68,7,8,Books,Desktop,0,0
+63,Texas,90.89,22.66,4,0,Electronics,Mobile,0,0
+25,Florida,207.73,6.2,3,6,Electronics,Mobile,0,0
+57,Illinois,198.08,19.91,11,4,Toys,Mobile,0,0
+49,New York,131.79,9.04,18,4,Toys,Desktop,1,1
+54,California,271.61,9.41,2,2,Books,Mobile,0,0
+50,New York,274.01,1.68,14,8,Fashion,Mobile,0,0
+25,Illinois,280.94,12.93,3,5,Books,Mobile,0,0
+44,New York,299.25,23.79,10,3,Home,Desktop,0,0
+55,New York,237.25,15.29,13,5,Home,Mobile,0,0
+65,California,299.85,1.13,11,10,Electronics,Desktop,1,0
+30,Florida,36.56,3.24,10,2,Home,Desktop,0,0
+51,New York,11.46,26.39,8,10,Home,Desktop,1,1
+56,California,263.51,23.87,14,10,Electronics,Mobile,0,0
+59,Texas,226.31,16.17,14,4,Fashion,Mobile,0,0
+41,Texas,249.07,29.86,16,5,Toys,Mobile,0,0
+29,New York,255.57,27.18,11,5,Books,Mobile,1,1
+21,Florida,70.37,17.87,5,9,Fashion,Desktop,1,0
+41,Illinois,269.91,19.41,8,5,Toys,Mobile,1,1
+20,California,290.43,16.36,19,0,Electronics,Mobile,0,0
+63,California,56.47,10.84,17,10,Electronics,Mobile,1,1
+30,California,275.78,10.73,20,10,Toys,Mobile,1,1
+20,New York,177.18,12.73,8,8,Toys,Desktop,1,1
+52,Florida,18.34,4.38,12,10,Home,Desktop,1,0
+23,Illinois,32.56,14.21,10,6,Fashion,Desktop,1,1
+28,Florida,193.79,17.47,2,1,Fashion,Mobile,1,1
+51,Illinois,169.43,26.44,20,2,Home,Mobile,1,0
+45,Texas,226.44,20.64,5,8,Fashion,Desktop,1,0
+60,Florida,242.46,4.61,5,9,Home,Mobile,1,0
+65,Florida,172.96,8.69,18,6,Books,Mobile,0,0
+39,Florida,26.58,12.63,15,8,Electronics,Desktop,0,0
+22,California,253.69,13.32,6,5,Toys,Desktop,1,1
+61,Texas,167.89,17.74,6,9,Toys,Desktop,0,0
+64,Illinois,267.43,13.52,13,2,Toys,Mobile,1,1
+51,California,46.69,14.77,17,5,Toys,Mobile,0,0
+30,Florida,144.98,9.38,13,5,Electronics,Mobile,0,0
+28,New York,68.09,9.3,20,0,Electronics,Desktop,1,1
+49,Texas,297.44,4.89,4,1,Home,Mobile,1,0
+62,Illinois,260.1,14.33,14,1,Home,Desktop,0,0
+37,New York,84.79,18.58,8,4,Fashion,Desktop,0,0
+41,Florida,79.37,11.77,16,0,Electronics,Desktop,0,0
+62,Illinois,244.35,7.78,11,9,Toys,Mobile,0,0
+27,California,26.34,10.31,2,4,Home,Desktop,1,1
+54,New York,133.69,21.21,18,1,Electronics,Mobile,0,0
+37,Illinois,202.65,8.18,3,7,Fashion,Mobile,1,1
+18,New York,173.88,27.3,19,1,Home,Mobile,0,0
+26,Texas,296.0,16.15,15,2,Home,Mobile,1,1
+44,California,49.99,20.34,15,6,Electronics,Mobile,1,1
+46,New York,185.02,26.43,11,0,Home,Mobile,1,1
+27,California,104.12,2.46,17,2,Fashion,Desktop,1,0
+55,Illinois,36.76,18.84,11,4,Home,Mobile,1,0
+49,Illinois,80.76,7.27,15,0,Electronics,Mobile,1,1
+53,New York,74.93,23.33,13,0,Books,Desktop,0,0
+46,Texas,262.89,21.23,6,10,Books,Mobile,1,1
+33,California,12.39,4.67,1,5,Home,Mobile,1,0
+65,Florida,57.7,17.49,3,3,Fashion,Desktop,1,1
+28,Texas,12.98,28.35,1,5,Electronics,Desktop,0,0
+19,Florida,127.98,25.78,16,0,Books,Desktop,1,0
+22,New York,62.52,23.85,13,1,Books,Desktop,1,0
+21,Texas,238.02,21.31,20,7,Home,Mobile,1,0
+53,Florida,194.68,26.73,14,7,Fashion,Mobile,0,0
+58,Texas,29.84,27.54,6,5,Fashion,Mobile,0,0
+30,Florida,49.7,29.12,17,1,Toys,Desktop,0,0
+39,New York,294.58,11.96,10,9,Toys,Mobile,1,0
+52,Texas,17.57,14.45,9,10,Electronics,Desktop,1,1
+57,California,199.67,23.43,10,4,Electronics,Mobile,1,1
+46,Florida,229.45,6.44,17,10,Fashion,Desktop,1,0
+29,New York,24.73,18.7,11,6,Home,Mobile,1,1
+45,Illinois,210.78,29.73,10,10,Toys,Mobile,0,0
+59,Texas,129.56,29.24,12,0,Electronics,Desktop,0,0
+48,California,123.83,20.19,11,4,Home,Desktop,0,0
+62,California,125.17,11.1,16,2,Fashion,Mobile,1,1
+34,California,52.22,20.8,4,0,Fashion,Desktop,1,1
+49,California,72.65,4.83,18,6,Books,Mobile,0,0
+40,Texas,52.74,29.02,4,7,Home,Mobile,1,1
+46,New York,173.2,20.99,12,1,Electronics,Desktop,1,0
+50,Illinois,145.89,9.17,17,4,Electronics,Desktop,1,1
+26,Texas,109.28,3.61,11,8,Toys,Desktop,1,0
+61,Illinois,249.78,17.66,2,10,Toys,Mobile,1,1
+64,Illinois,75.09,16.05,2,2,Fashion,Desktop,1,1
+49,Florida,256.17,8.61,1,2,Home,Mobile,0,0
+55,Texas,55.97,15.38,15,6,Books,Mobile,1,1
+57,Texas,148.6,20.78,7,9,Toys,Mobile,0,0
+30,New York,193.32,9.79,12,6,Fashion,Mobile,0,0
+65,New York,269.28,25.33,13,8,Toys,Desktop,1,0
+41,Texas,201.8,19.4,2,4,Home,Desktop,1,0
+57,Florida,289.34,26.9,19,8,Electronics,Mobile,1,1
+35,California,40.24,5.11,5,8,Toys,Mobile,0,0
+38,Florida,279.63,16.07,20,10,Electronics,Desktop,1,1
+38,California,219.89,7.3,19,4,Electronics,Mobile,0,0
+54,Florida,297.22,12.8,1,5,Home,Desktop,1,1
+46,Illinois,89.73,16.82,1,10,Toys,Mobile,1,0
+32,Florida,93.3,19.11,5,3,Home,Desktop,0,0
+35,Illinois,284.56,12.38,19,2,Home,Desktop,1,1
+24,Texas,101.46,9.39,19,0,Toys,Mobile,0,0
+23,Texas,233.83,23.17,10,3,Fashion,Desktop,1,1
+51,New York,105.73,7.46,8,8,Books,Mobile,0,0
+25,New York,215.39,21.56,3,10,Electronics,Mobile,1,1
+26,Texas,151.07,26.47,1,9,Home,Desktop,0,0
+33,Florida,123.27,1.61,17,1,Fashion,Mobile,0,0
+46,Texas,28.79,4.2,13,9,Home,Desktop,0,0
+19,New York,281.17,24.53,12,1,Books,Desktop,0,0
+40,Florida,114.86,18.0,5,2,Fashion,Mobile,1,1
+33,New York,107.03,16.05,16,9,Toys,Mobile,0,0
+30,Illinois,183.53,27.48,1,0,Electronics,Mobile,0,0
+20,Florida,129.61,12.84,4,1,Fashion,Mobile,1,1
+19,Florida,162.48,12.81,13,6,Books,Desktop,1,1
+63,Florida,164.77,9.48,18,5,Fashion,Desktop,1,1
+26,California,16.08,15.93,4,4,Home,Mobile,0,0
+42,Illinois,150.61,15.49,13,0,Toys,Mobile,1,1
+31,Florida,52.81,25.95,5,7,Electronics,Desktop,1,0
+40,California,239.32,14.28,2,9,Books,Mobile,1,1
+58,New York,262.22,14.22,20,8,Fashion,Desktop,1,1
+19,New York,295.36,19.99,7,10,Home,Desktop,0,0
+45,California,199.09,19.37,5,3,Books,Mobile,1,1
+47,California,260.09,14.13,3,7,Books,Mobile,0,0
+51,Florida,284.62,27.05,4,10,Books,Mobile,1,0
+55,New York,195.36,21.03,13,8,Home,Desktop,1,0
+61,Illinois,196.39,5.61,2,1,Fashion,Mobile,1,0
+32,Texas,265.54,15.32,19,0,Books,Mobile,1,1
+40,Illinois,186.67,19.19,17,6,Toys,Mobile,1,1
+29,New York,130.0,6.2,6,3,Electronics,Desktop,1,1
+57,Illinois,212.29,28.29,4,3,Fashion,Desktop,0,0
+45,Texas,222.54,17.2,8,8,Toys,Mobile,0,0
+60,Illinois,110.11,6.82,6,9,Home,Desktop,1,1
+43,California,283.27,4.41,15,3,Home,Desktop,1,0
+28,Texas,65.52,14.98,5,0,Fashion,Mobile,0,0
+59,New York,211.98,14.88,14,2,Books,Mobile,1,1
+28,Florida,272.98,5.86,12,0,Electronics,Desktop,1,0
+48,Florida,261.86,12.84,3,4,Electronics,Mobile,1,1
+30,Texas,169.58,9.05,15,9,Electronics,Mobile,1,0
+55,Florida,287.29,28.19,10,9,Electronics,Desktop,0,0
+28,New York,254.81,15.35,11,9,Toys,Desktop,0,0
+61,Illinois,249.73,25.26,14,6,Electronics,Desktop,1,1
+26,Illinois,58.1,2.01,3,4,Electronics,Desktop,0,0
+22,California,46.16,29.23,15,8,Toys,Desktop,0,0
+56,Florida,36.58,21.85,10,1,Toys,Mobile,0,0
+59,New York,118.79,1.4,1,7,Toys,Desktop,1,0
+62,California,77.54,13.08,1,5,Fashion,Mobile,1,0
+51,California,55.31,15.71,6,5,Books,Mobile,1,0
+31,New York,39.53,16.74,19,2,Fashion,Desktop,0,0
+65,New York,288.72,13.58,20,6,Fashion,Desktop,0,0
+53,Texas,15.91,6.36,16,6,Home,Mobile,1,0
+54,Illinois,199.49,7.38,17,1,Fashion,Mobile,1,1
+41,New York,145.76,21.55,11,7,Electronics,Desktop,1,1
+61,New York,74.39,5.8,1,9,Fashion,Mobile,1,1
+64,Florida,162.77,2.49,13,5,Toys,Desktop,0,0
+44,Florida,109.61,9.8,3,3,Home,Mobile,0,0
+35,Florida,109.12,3.77,11,5,Fashion,Mobile,1,0
+55,California,148.32,11.03,7,0,Toys,Mobile,1,1
+32,Illinois,43.91,22.78,6,9,Fashion,Desktop,1,0
+65,Illinois,30.21,7.37,11,0,Toys,Desktop,0,0
+57,California,78.72,29.34,10,6,Toys,Desktop,1,1
+28,Texas,67.61,18.48,12,6,Books,Mobile,0,0
+54,Florida,110.85,23.6,8,10,Home,Desktop,1,0
+25,Texas,113.12,12.92,11,10,Electronics,Desktop,1,1
+25,California,111.69,9.61,12,8,Fashion,Desktop,1,1
+42,New York,62.18,1.44,4,2,Books,Desktop,1,0
+37,California,79.78,28.53,5,7,Electronics,Mobile,1,0
+47,Illinois,287.11,21.86,1,8,Fashion,Desktop,0,0
+64,Texas,212.79,7.07,16,9,Books,Desktop,1,0
+55,New York,13.31,2.27,17,0,Electronics,Desktop,1,0
+64,California,209.49,25.57,17,7,Toys,Desktop,1,1
+21,Florida,141.48,26.57,2,7,Home,Mobile,1,1
+58,Illinois,80.06,6.04,17,5,Books,Desktop,0,0
+37,California,255.68,27.47,6,0,Home,Mobile,0,0
+25,New York,131.08,9.75,13,6,Toys,Desktop,0,0
+46,California,19.09,20.34,15,4,Electronics,Mobile,1,1
+58,Texas,233.6,3.56,18,1,Electronics,Mobile,1,0
+22,California,44.34,23.61,11,9,Books,Mobile,0,0
+20,Texas,135.62,25.24,18,10,Books,Mobile,1,1
+26,California,102.89,2.02,9,8,Electronics,Mobile,0,0
+56,New York,24.94,10.2,19,6,Electronics,Mobile,0,0
+56,California,182.95,19.04,7,3,Electronics,Desktop,0,0
+39,New York,128.89,12.64,7,3,Home,Desktop,1,1
+21,Florida,214.9,16.01,14,3,Electronics,Desktop,0,0
+22,Florida,173.31,4.8,16,3,Home,Mobile,0,0
+65,Texas,153.95,19.63,5,4,Electronics,Desktop,1,1
+59,Illinois,154.07,28.02,15,0,Home,Desktop,0,0
+32,Florida,43.67,29.21,11,9,Toys,Desktop,0,0
+42,Texas,247.85,18.22,18,0,Fashion,Mobile,1,1
+32,Illinois,211.0,19.5,4,8,Electronics,Mobile,1,0
+24,New York,61.13,7.64,7,2,Toys,Mobile,0,0
+45,California,147.89,24.37,8,8,Home,Desktop,0,0
+32,Florida,292.03,13.52,8,4,Electronics,Desktop,1,0
+62,Illinois,223.04,4.89,15,5,Books,Mobile,1,0
+39,Florida,198.71,23.41,12,7,Electronics,Mobile,1,1
+63,Texas,37.54,9.66,6,3,Home,Desktop,1,1
+47,Texas,259.87,19.56,17,2,Books,Mobile,1,1
+54,Texas,111.03,23.05,6,2,Books,Mobile,1,1
+37,New York,195.14,29.62,17,1,Toys,Mobile,0,0
+47,New York,242.6,3.01,8,1,Electronics,Desktop,0,0
+50,New York,242.18,7.89,4,5,Electronics,Mobile,0,0
+63,New York,111.34,11.67,9,5,Books,Mobile,1,0
+50,Texas,143.77,4.12,20,7,Home,Mobile,1,0
+42,California,56.39,5.37,17,3,Books,Desktop,1,1
+51,California,182.06,14.01,16,2,Electronics,Desktop,0,0
+48,Illinois,152.97,13.37,3,8,Electronics,Desktop,0,0
+20,Illinois,295.46,10.58,14,10,Home,Mobile,1,1
+44,California,154.67,4.33,13,4,Fashion,Desktop,0,0
+41,California,84.07,7.48,13,10,Toys,Desktop,0,0
+65,California,166.78,23.72,17,4,Toys,Desktop,1,1
+24,New York,280.75,4.78,10,0,Toys,Desktop,0,0
+43,Texas,119.46,22.28,1,3,Home,Desktop,0,0
+32,Florida,296.44,16.82,17,0,Toys,Desktop,0,0
+22,Florida,243.24,11.94,20,8,Books,Desktop,1,0
+36,Illinois,12.62,12.68,15,2,Electronics,Mobile,1,1
+55,New York,263.43,10.92,18,4,Fashion,Desktop,1,0
+29,Florida,165.15,16.35,12,10,Toys,Mobile,1,0
+36,New York,210.65,19.61,5,3,Home,Mobile,1,1
+44,Texas,280.92,23.76,14,9,Fashion,Mobile,1,0
+28,California,23.58,7.28,1,8,Electronics,Desktop,0,0
+42,California,33.6,15.0,13,10,Toys,Desktop,1,1
+21,Texas,19.17,12.86,12,8,Electronics,Desktop,0,0
+47,California,142.51,8.2,9,7,Electronics,Mobile,1,0
+27,Illinois,262.13,13.13,8,1,Fashion,Desktop,1,1
+27,Florida,251.16,27.92,15,10,Electronics,Mobile,0,0
+22,Texas,32.39,8.68,6,7,Fashion,Mobile,0,0
+22,Florida,151.67,18.84,4,9,Toys,Desktop,0,0
+20,New York,264.28,6.74,7,0,Books,Mobile,0,0
+28,Florida,209.25,17.13,7,8,Home,Mobile,1,0
+46,Florida,52.37,20.19,14,6,Home,Desktop,0,0
+47,New York,140.02,25.04,12,10,Home,Desktop,0,0
+53,California,205.01,20.05,17,5,Books,Desktop,0,0
+32,New York,291.89,20.98,1,1,Electronics,Mobile,1,1
+62,Illinois,207.81,21.97,11,0,Toys,Desktop,0,0
+28,California,258.33,29.35,8,1,Fashion,Desktop,0,0
+65,Illinois,39.76,17.44,10,6,Fashion,Desktop,1,1
+33,Illinois,43.17,22.44,17,5,Home,Desktop,1,0
+21,Florida,169.68,24.59,7,0,Home,Mobile,1,1
+33,Florida,96.46,28.67,17,10,Books,Mobile,1,0
+56,Texas,34.64,29.44,13,1,Toys,Desktop,1,1
+35,New York,37.86,13.88,14,5,Books,Desktop,0,0
+64,New York,229.61,28.73,6,5,Electronics,Mobile,1,1
+41,New York,184.03,17.07,3,3,Fashion,Mobile,0,0
+20,Illinois,242.7,15.48,3,0,Electronics,Mobile,1,0
+32,New York,236.98,1.12,10,9,Electronics,Desktop,1,0
+30,New York,145.68,26.46,13,1,Electronics,Desktop,1,1
+60,Illinois,13.01,12.31,4,7,Fashion,Desktop,1,1
+28,Illinois,108.09,17.37,7,9,Electronics,Desktop,1,1
+58,Texas,127.58,26.18,11,4,Fashion,Desktop,0,0
+45,Florida,203.62,9.48,4,5,Fashion,Desktop,0,0
+41,California,78.01,14.03,10,6,Fashion,Desktop,1,1
+64,Illinois,148.32,17.73,19,10,Home,Mobile,1,1
+43,California,164.6,5.91,9,9,Home,Mobile,1,1
+54,Florida,110.42,11.09,17,8,Home,Desktop,1,1
+22,Illinois,220.5,1.88,10,9,Fashion,Desktop,0,0
+58,California,129.96,10.73,20,9,Home,Mobile,1,0
+55,Texas,173.74,17.78,17,8,Toys,Mobile,0,0
+42,New York,179.68,23.11,7,10,Toys,Desktop,1,1
+23,Florida,186.68,21.93,13,6,Fashion,Desktop,1,1
+38,New York,245.26,8.06,17,9,Home,Desktop,0,0
+42,Florida,17.56,1.08,17,6,Electronics,Mobile,0,0
+39,Florida,32.4,6.83,20,6,Home,Desktop,0,0
+46,California,119.54,12.51,16,10,Books,Desktop,1,1
+28,Texas,181.85,25.69,11,6,Electronics,Mobile,0,0
+26,Texas,90.94,21.12,8,0,Fashion,Desktop,0,0
+56,Florida,172.71,21.17,13,0,Toys,Mobile,1,1
+51,New York,281.66,12.69,7,5,Home,Mobile,0,0
+20,New York,285.54,20.45,3,5,Electronics,Mobile,0,0
+31,Texas,108.92,27.57,19,3,Toys,Mobile,1,1
+39,Illinois,229.39,29.89,14,8,Toys,Desktop,1,1
+37,Illinois,40.61,6.95,15,1,Home,Desktop,0,0
+61,Texas,156.21,17.68,12,1,Fashion,Mobile,1,0
+38,New York,284.92,27.74,18,1,Fashion,Desktop,0,0
+63,New York,18.91,26.09,17,6,Toys,Mobile,1,1
+52,Texas,174.63,4.39,3,3,Books,Desktop,0,0
+19,New York,57.05,1.18,2,9,Fashion,Desktop,1,0
+20,Texas,263.44,19.67,10,7,Electronics,Desktop,0,0
+44,Texas,19.68,9.25,11,7,Toys,Desktop,0,0
+45,California,65.82,11.87,16,6,Electronics,Desktop,0,0
+35,Florida,47.45,1.3,13,10,Toys,Mobile,1,0
+19,New York,219.43,12.0,11,3,Home,Mobile,0,0
+32,New York,280.88,25.68,16,1,Books,Desktop,0,0
+55,Illinois,59.44,22.65,7,6,Electronics,Desktop,1,0
+40,New York,171.46,6.3,15,10,Home,Desktop,1,1
+37,Texas,119.47,20.12,13,7,Home,Mobile,0,0
+37,California,10.9,7.51,8,7,Home,Desktop,0,0
+63,Florida,111.15,4.4,14,4,Fashion,Desktop,0,0
+41,Florida,232.19,10.4,4,10,Toys,Desktop,1,1
+27,Texas,102.96,17.88,6,0,Home,Mobile,0,0
+43,Florida,125.81,5.35,2,9,Home,Mobile,0,0
+31,New York,225.82,16.88,13,8,Home,Desktop,0,0
+20,Florida,158.34,15.51,15,4,Home,Mobile,1,0
+62,New York,260.94,27.94,1,7,Books,Mobile,0,0
+51,California,34.79,4.53,3,2,Electronics,Mobile,0,0
+40,New York,267.52,18.56,20,6,Electronics,Desktop,1,0
+57,Texas,207.52,7.95,3,6,Home,Desktop,0,0
+20,California,122.64,26.12,19,0,Books,Desktop,0,0
+54,New York,186.78,29.18,14,8,Electronics,Desktop,1,1
+38,New York,65.92,16.53,16,1,Books,Desktop,0,0
+22,New York,200.44,14.74,3,1,Fashion,Mobile,0,0
+62,California,221.09,4.08,3,6,Home,Desktop,1,0
+41,California,112.22,8.0,2,1,Books,Desktop,0,0
+63,Florida,246.52,16.13,10,2,Electronics,Mobile,0,0
+35,Illinois,79.53,14.29,4,3,Electronics,Mobile,0,0
+31,Texas,173.77,13.56,12,7,Electronics,Mobile,0,0
+54,California,285.42,7.93,11,3,Electronics,Mobile,1,1
+52,New York,18.87,17.73,9,8,Toys,Desktop,1,1
+21,Illinois,219.66,29.13,7,8,Toys,Mobile,1,1
+31,New York,65.4,24.46,13,3,Fashion,Mobile,1,0
+45,Florida,55.52,18.37,6,6,Fashion,Mobile,0,0
+32,Florida,254.0,14.28,14,1,Electronics,Desktop,0,0
+43,New York,66.02,11.95,3,10,Electronics,Mobile,0,0
+34,Florida,194.46,5.08,16,4,Electronics,Desktop,1,1
+54,Illinois,87.48,18.79,9,3,Electronics,Mobile,0,0
+61,New York,205.92,24.45,1,4,Electronics,Mobile,0,0
+53,Florida,48.7,2.87,19,3,Toys,Mobile,0,0
+64,California,151.95,3.51,10,9,Electronics,Mobile,1,0
+64,Illinois,81.45,13.06,11,3,Toys,Mobile,0,0
+44,New York,211.06,19.16,9,1,Books,Desktop,0,0
+53,Florida,206.82,4.6,12,4,Fashion,Mobile,1,0
+36,New York,151.66,29.09,16,3,Fashion,Mobile,1,1
+26,California,240.47,8.44,7,5,Electronics,Mobile,1,1
+34,California,46.35,11.55,15,6,Toys,Mobile,0,0
+50,Texas,241.3,26.08,9,9,Toys,Mobile,1,0
+21,New York,94.69,21.82,13,1,Toys,Mobile,0,0
+65,Florida,142.14,2.62,8,1,Electronics,Mobile,0,0
+38,Florida,208.78,20.33,15,0,Fashion,Mobile,1,1
+32,Illinois,97.45,6.78,20,9,Electronics,Desktop,1,1
+28,California,196.85,11.65,2,2,Electronics,Mobile,0,0
+64,New York,239.12,14.05,18,4,Fashion,Mobile,1,1
+35,Texas,32.5,6.25,1,4,Books,Desktop,1,1
+58,New York,149.06,3.79,9,1,Fashion,Desktop,0,0
+20,Illinois,156.58,28.35,17,9,Fashion,Desktop,0,0
+36,New York,144.88,1.68,14,10,Fashion,Mobile,1,0
+53,California,288.2,25.13,13,3,Home,Mobile,0,0
+40,California,265.28,8.48,14,3,Home,Desktop,1,0
+35,New York,158.51,27.88,7,7,Toys,Mobile,0,0
+31,New York,283.76,16.1,14,8,Home,Desktop,0,0
+23,Florida,197.82,6.31,17,4,Electronics,Desktop,1,1
+42,Florida,244.82,15.35,2,7,Electronics,Mobile,1,1
+58,Florida,233.82,10.18,8,9,Home,Mobile,1,1
+51,California,109.82,24.26,10,0,Fashion,Mobile,1,0
+31,California,77.55,8.85,8,0,Electronics,Mobile,0,0
+21,New York,21.52,7.26,12,4,Electronics,Desktop,1,1
+39,California,114.27,28.7,3,5,Fashion,Desktop,0,0
+59,California,212.43,28.33,9,9,Toys,Mobile,0,0
+34,Florida,196.62,12.38,14,3,Home,Mobile,1,1
+49,New York,136.06,19.15,11,1,Fashion,Mobile,1,1
+19,Florida,140.75,23.15,2,1,Electronics,Mobile,1,1
+30,Illinois,150.06,22.93,2,9,Home,Desktop,0,0
+46,Illinois,260.48,18.88,10,0,Home,Mobile,1,1
+28,Texas,173.26,3.34,13,8,Fashion,Desktop,0,0
+21,New York,90.07,10.3,7,2,Home,Desktop,0,0
+56,New York,268.72,21.94,15,9,Fashion,Mobile,1,0
+49,Texas,268.33,4.58,4,9,Home,Desktop,1,0
+48,Illinois,31.38,15.38,4,10,Home,Mobile,1,1
+29,Texas,104.84,9.62,13,4,Fashion,Desktop,1,0
+50,California,218.15,24.58,16,10,Electronics,Desktop,1,1
+65,Illinois,266.91,9.34,15,10,Electronics,Mobile,0,0
+55,New York,41.48,24.46,10,4,Fashion,Desktop,1,1
+35,Florida,143.25,2.55,7,8,Toys,Mobile,1,0
+61,California,133.15,8.18,10,3,Home,Desktop,0,0
+56,Illinois,130.23,3.37,16,1,Fashion,Mobile,1,0
+49,Illinois,49.85,10.29,6,7,Fashion,Mobile,1,0
+44,Florida,160.34,3.12,9,4,Toys,Desktop,1,0
+43,California,275.83,29.36,16,5,Fashion,Mobile,0,0
+47,California,214.96,27.42,20,6,Fashion,Mobile,1,0
+61,Florida,238.93,29.3,16,10,Electronics,Mobile,0,0
+55,Illinois,239.86,4.23,2,7,Fashion,Desktop,1,0
+34,Florida,136.98,10.62,11,10,Electronics,Desktop,1,1
+47,Florida,291.86,20.66,10,6,Electronics,Mobile,1,1
+63,Florida,99.55,5.68,10,7,Electronics,Desktop,0,0
+31,California,48.54,21.93,1,2,Toys,Desktop,0,0
+65,California,169.25,21.69,17,7,Toys,Mobile,1,1
+37,Illinois,163.07,8.17,12,4,Books,Desktop,0,0
+61,Illinois,32.9,13.55,4,10,Home,Desktop,1,1
+27,California,140.89,1.56,15,5,Home,Mobile,0,0
+65,New York,121.92,9.23,15,5,Fashion,Mobile,1,1
+51,Illinois,142.56,11.44,20,1,Fashion,Mobile,0,0
+37,California,92.74,7.56,19,8,Toys,Desktop,0,0
+42,Florida,187.74,18.47,12,8,Books,Mobile,1,0
+47,California,114.33,6.9,10,10,Books,Mobile,0,0
+64,New York,176.41,25.31,17,3,Fashion,Mobile,1,0
+27,Illinois,64.76,16.2,10,3,Toys,Desktop,1,1
+65,California,232.17,7.13,8,9,Books,Desktop,1,1
+45,Florida,114.5,5.68,9,5,Home,Mobile,1,0
+37,Illinois,207.18,11.68,6,4,Electronics,Mobile,0,0
+58,Texas,24.81,26.88,1,8,Electronics,Mobile,1,1
+45,Florida,134.15,28.25,18,4,Toys,Mobile,0,0
+59,California,85.61,22.46,20,4,Books,Desktop,0,0
+59,New York,292.67,1.57,3,9,Home,Mobile,0,0
+32,New York,31.69,23.11,18,1,Fashion,Mobile,1,0
+43,New York,52.64,28.39,13,8,Toys,Desktop,0,0
+41,New York,44.1,3.36,8,3,Fashion,Desktop,0,0
+22,Texas,120.05,21.29,10,8,Toys,Mobile,0,0
+23,California,50.75,5.82,13,9,Electronics,Mobile,0,0
+21,Florida,86.86,6.28,15,9,Electronics,Desktop,0,0
+35,Texas,29.26,25.71,3,5,Toys,Mobile,1,0
+46,Florida,237.33,10.97,14,8,Toys,Desktop,1,0
+58,Texas,127.84,24.64,3,8,Books,Desktop,1,0
+26,Texas,30.49,13.01,11,3,Books,Mobile,1,0
+61,Illinois,154.31,8.41,15,5,Home,Desktop,1,0
+57,Illinois,39.29,7.82,9,9,Books,Mobile,0,0
+65,Illinois,14.94,25.11,8,8,Fashion,Desktop,1,1
+36,Florida,176.06,13.95,7,9,Electronics,Mobile,1,0
+28,New York,72.65,15.04,6,1,Fashion,Mobile,0,0
+38,Florida,36.63,2.18,1,10,Books,Desktop,0,0
+26,New York,55.92,10.65,10,2,Books,Desktop,0,0
+25,California,197.73,28.97,4,7,Toys,Mobile,0,0
+32,New York,176.31,9.46,6,10,Fashion,Desktop,0,0
+56,Texas,45.01,6.74,15,4,Electronics,Mobile,1,1
+45,Illinois,93.34,11.67,6,10,Toys,Mobile,0,0
+63,California,127.6,3.03,10,7,Books,Desktop,0,0
+45,New York,103.54,9.16,17,0,Fashion,Mobile,0,0
+37,Texas,274.96,25.95,3,6,Electronics,Mobile,0,0
+53,California,102.02,24.14,18,10,Books,Mobile,1,1
+62,Illinois,268.19,15.5,5,1,Toys,Desktop,1,1
+56,California,177.6,8.15,15,4,Books,Mobile,1,1
+25,Illinois,133.37,10.83,7,10,Fashion,Desktop,0,0
+44,Florida,180.88,11.43,3,6,Electronics,Mobile,1,1
+57,New York,79.15,13.12,16,9,Home,Mobile,1,1
+25,Florida,12.66,20.55,8,4,Fashion,Desktop,0,0
+43,New York,267.86,24.06,8,1,Electronics,Desktop,0,0
+63,New York,88.84,4.5,7,5,Home,Desktop,1,0
+47,California,74.42,18.99,20,1,Fashion,Mobile,0,0
+20,New York,127.75,11.01,13,9,Electronics,Desktop,1,1
+31,California,260.41,12.98,14,10,Toys,Mobile,0,0
+39,Texas,242.16,17.53,2,6,Fashion,Desktop,0,0
+41,Florida,53.51,2.9,19,9,Books,Mobile,0,0
+24,California,186.18,16.77,20,2,Electronics,Desktop,1,0
+38,Texas,78.23,5.48,12,9,Electronics,Desktop,1,1
+39,California,31.36,13.22,11,5,Books,Desktop,1,1
+39,Illinois,175.6,24.99,1,0,Home,Desktop,0,0
+47,Florida,263.27,18.49,5,6,Books,Desktop,1,1
+23,Florida,211.86,10.68,4,0,Electronics,Desktop,0,0
+38,Texas,34.19,18.83,19,3,Books,Desktop,1,0
+19,Texas,35.61,22.13,4,8,Toys,Mobile,0,0
+57,Florida,82.06,14.19,3,1,Toys,Mobile,1,1
+22,Illinois,229.22,6.72,17,1,Home,Mobile,1,0
+20,Florida,279.27,4.5,5,7,Toys,Mobile,1,0
+25,New York,77.16,18.73,7,10,Electronics,Desktop,0,0
+42,Florida,236.77,12.08,6,10,Toys,Mobile,0,0
+46,Florida,197.01,6.6,8,10,Fashion,Mobile,1,1
+59,New York,249.21,17.67,17,5,Toys,Desktop,0,0
+50,Texas,252.63,22.86,1,8,Home,Desktop,0,0
+60,New York,245.46,4.23,10,7,Books,Mobile,1,0
+28,Texas,148.07,7.14,4,7,Home,Mobile,1,0
+20,Illinois,119.26,10.19,3,1,Fashion,Desktop,0,0
+26,Illinois,297.6,22.5,9,7,Books,Mobile,0,0
+40,New York,217.39,14.66,14,4,Home,Mobile,0,0
+46,Florida,213.43,27.67,1,7,Electronics,Desktop,1,0
+50,Illinois,292.5,25.97,11,9,Fashion,Desktop,0,0
+35,Texas,25.99,26.17,5,4,Toys,Desktop,1,1
+35,Texas,194.0,10.08,6,4,Fashion,Mobile,0,0
+49,Texas,67.24,24.19,13,5,Electronics,Mobile,0,0
+29,Texas,265.06,2.71,1,4,Toys,Mobile,1,0
+30,California,134.1,11.99,8,8,Toys,Mobile,1,0
+58,Texas,179.76,29.72,1,8,Fashion,Desktop,0,0
+45,New York,174.94,23.01,18,7,Fashion,Desktop,0,0
+41,California,45.21,1.85,20,8,Books,Desktop,1,0
+21,California,19.98,7.77,15,7,Fashion,Mobile,1,1
+52,Texas,36.58,19.72,10,3,Electronics,Desktop,0,0
+36,Texas,276.81,11.4,8,1,Toys,Mobile,0,0
